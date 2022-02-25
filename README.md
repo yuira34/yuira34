@@ -1,4 +1,4 @@
-<!--<img src="/src/banner_github.png">-->
+<img src="/src/github_banner.png">
 
 # Heyyo!!! Wats poppin Mary? <img src="/src/wave.gif" width="28px">
 Welcome to my profile showcase! *Hope you like the decorations~*
