@@ -1,7 +1,17 @@
-### Hi there 👋
+<img src="/src/GitHub_Banner.png">
+
+# Delighted to make your acquaintance. <img src="/src/wave.gif" width="30px">
+You may have already known my nickname, but allow me to re-introduce myself *properly this time*. My name is [Yudhistira Anggara](https://www.linkedin.com/in/yuira-anggara/) and I'm an amateur **Data Scientist**.
+
+My parent always told me that I have a knack for technology ~~and search on how to's around the internet~~ beside that I also acquired skills and knowledge along the journey to become a great data scientist. Feel free to look around my repositories, you might find something interesing, *perhaps even note-worthy*.
+
+# Repository Highlights 🎇
+
+# Skills & Knowledges 💡
+
 
 <!--
-**Yuira-Angga/Yuira-Angga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yuira34/yuira34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
