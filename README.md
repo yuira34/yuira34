@@ -1,15 +1,13 @@
 <img src="/src/github_banner.png">
 
-# Heyyo!!! Wats poppin Mary? <img src="/src/wave.gif" width="28px">
-Welcome to my profile showcase! *Hope you like the decorations~*
+# What's poppin Mary? Or should I say Mary Poppin <img src="/src/wave.gif" width="28px">
+Hello and welcome to my profile showcase! *Hope you like the decorations~* 
 
-Oh and if you would like to know, My name is Yudhistira Anggara, yep you guessed it! Just like [The Pandava Brothers](https://en.wikipedia.org/wiki/Yudhishthira).
+***Oh dear where are my manners***, My name is **Yudhistira Anggara**, yep you guessed it! Just like [The Pandava Brothers](https://en.wikipedia.org/wiki/Yudhishthira).
 
-However you can just call me **Yuira** or `ゆいら` *a weaboo name, I know.*
-
-My parent always told me that I have a knack for technology ~~and search on how to's around the internet~~ which filled my enthusiasm to Study in Informatics Field of Study.
-
-Feel free to look around my repositories, you might find something interesing, *perhaps even note-worthy*.
+However you can just call my nickname **"Yuira"** or `ゆいら`, *a weaboo name, I know.*
+My parent always told me that I have a knack for technology ~~and search on how to's around the internet~~ which further fueled my enthusiasm in the field of Informatics.
+Feel free to look around my repositories, you might find something interesting, *perhaps even note-worthy*.
 
 # Repository Highlights 🎇
 
